@@ -1,9 +1,0 @@
-[Unit]
-Description=xremap
-
-[Service]
-ExecStart=/path/to/xremap /path/to/config.yml
-Restart=always
-
-[Install]
-WantedBy=default.target
