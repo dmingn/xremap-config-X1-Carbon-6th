@@ -1,0 +1,7 @@
+modmap:
+  - remap:
+      CapsLock: Ctrl_L
+  - remap:
+      Alt_L: Ctrl_L
+      Super_L: Alt_L
+      Ctrl_L: Super_L
